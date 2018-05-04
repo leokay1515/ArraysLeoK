@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 5 (Arrays & Lists)\ArraysLeoK\ArraysLeoK\bin\Debug\ArraysLeoK.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 5 (Arrays & Lists)\ArraysLeoK\ArraysLeoK\bin\Debug\ArraysLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 5 (Arrays & Lists)\ArraysLeoK\ArraysLeoK\bin\Debug\ArraysLeoK.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 5 (Arrays & Lists)\ArraysLeoK\ArraysLeoK\obj\Debug\ArraysLeoK.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 5 (Arrays & Lists)\ArraysLeoK\ArraysLeoK\obj\Debug\ArraysLeoK.frmArraysLeoK.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 5 (Arrays & Lists)\ArraysLeoK\ArraysLeoK\obj\Debug\ArraysLeoK.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 5 (Arrays & Lists)\ArraysLeoK\ArraysLeoK\obj\Debug\ArraysLeoK.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 5 (Arrays & Lists)\ArraysLeoK\ArraysLeoK\obj\Debug\ArraysLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 5 (Arrays & Lists)\ArraysLeoK\ArraysLeoK\obj\Debug\ArraysLeoK.pdb
